@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+seaborn
+matplotlib
+missingno
+vega_datasets
+kagglehub
+nbformat
+nbclient
+ipykernel
